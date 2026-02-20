@@ -39,4 +39,5 @@ A robust, engineering-focused calculator built with Python and PySide6. This too
 * **Error Handling:** If an expression is invalid, the display will show "hatalı deneme" (invalid attempt).
 
 ## Preview
-*(Insert a screenshot of your UI here to show off those color-coded buttons!)*
+<img width="1001" height="478" alt="image" src="https://github.com/user-attachments/assets/5385ef54-d577-4264-9784-f20c2139d5c5" />
+
