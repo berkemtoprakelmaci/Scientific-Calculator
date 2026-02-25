@@ -36,7 +36,7 @@ A robust, engineering-focused calculator built with Python and PySide6. This too
 
 * **Variable Assignment:** To save a result, click the `x=` (or $y, z$, etc.) button. To use it in a new formula, simply click the corresponding `x` button.
 * **Dynamic Functions:** Buttons like `sqrt`, `sin`, or `log` wrap your current input automatically for faster workflow.
-* **Error Handling:** If an expression is invalid, the display will show "hatalı deneme" (invalid attempt).
+* **Error Handling:** If an expression is invalid, the display will show "invalid attempt".
 
 ## Preview
 
